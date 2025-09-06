@@ -1,6 +1,6 @@
 # Hi there, I'm Sanjeev! 👋
 
-🚀 **Aspiring Full Stack Developer | Pre-final Year B.E. CSE Student**
+🚀 **Aspiring UI&UX Designer and Full Stack Developer | Pre-final Year B.E. CSE Student**
 
 ---
 
