@@ -13,7 +13,7 @@
 ### ⚡ About Me
 
 <p>
-  I am a <strong>Full Stack MERN Developer</strong>, and a pre-final year CSE student with high problem solving skills and Leadership ability. <br />
+  I am a <strong>Full Stack MERN Developer</strong>, and a Final year CSE student with high problem solving skills and Leadership ability. <br />
   My mission is simple: <strong>Merge Speed with Sophistication.</strong>
 </p>
 
